@@ -1,16 +1,16 @@
 # 📌TechNote_Allday_24
 
-
+<br>
 
 공부한 CS 지식을 업로드하고, 같이 공부하는 공간입니다!
 
 
 
-<br>
+<br><br>
 
 
 
-### Participants
+### Participants✍
 
 - mein-FIGUR
 - jae961217
@@ -28,6 +28,8 @@
   - 게시글 테마는 자유! 형식은 유사하게!
 - **COMMIT MESSAGE RULE**: `[UPLOAD] 날짜_제목_ID`
   - ex) `[UPLOAD] 210915_kruskal_mein-FIGUR`
+
+- **게시글 업로드 후, `README`에 해당 게시글 카테고리 쪽에 추가**
 
 
 
