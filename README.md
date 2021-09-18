@@ -53,3 +53,18 @@
 
 - Kruskal Algorithm
 
+
+
+
+
+## Operating System🖋
+
+* CPU Scheduling
+* Deadlock
+
+
+
+## Network🖋
+
+* OSI 7
+* TCP(...ing)
