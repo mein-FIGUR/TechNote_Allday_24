@@ -52,6 +52,7 @@
 ## Algorithm🖋
 
 - Kruskal Algorithm
+- Prime Number
 
 
 
