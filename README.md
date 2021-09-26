@@ -19,7 +19,6 @@
 - HQkim
 - sorayrosa121
 - YoonSeok-Woo
-- Julia-we-s2
 
 
 
@@ -51,8 +50,15 @@
 
 ## Algorithm🖋
 
+- Dijkstra Algorithm
 - Kruskal Algorithm
 - Prime Number
+- Floyd Warshall Algorithm
+- Topological Sorting
+
+
+
+<br>
 
 ## Operating System🖋
 
@@ -60,12 +66,23 @@
 * Deadlock
 * OS
 
+
+
+<br>
+
 ## Network🖋
 
 * OSI 7
 * TCP(...ing)
 
+- HTTP, HTTPS
+
+<br>
+
 ## Computer Architecture🖋
 
 - Pipelining
 
+
+
+<br>
