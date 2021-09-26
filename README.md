@@ -50,6 +50,7 @@
 
 ## Algorithm🖋
 
+- Dijkstra Algorithm
 - Kruskal Algorithm
 - Prime Number
 - Floyd Warshall Algorithm
