@@ -105,11 +105,9 @@
 
 ### REFERENCE
 
-- [(Web) HTTP와 HTTPS 및 차이점][https://mangkyu.tistory.com/98]
-
-- [HTTP, 그리고 HTTPS의 이해][http://blog.wishket.com/http-%ea%b7%b8%eb%a6%ac%ea%b3%a0-https%ec%9d%98-%ec%9d%b4%ed%95%b4/]
-
-- [HTTP VS HTTPS 차이, 알면 사이트의 레벨이 보인다][http://blog.wishket.com/http-vs-https-%EC%B0%A8%EC%9D%B4-%EC%95%8C%EB%A9%B4-%EC%82%AC%EC%9D%B4%ED%8A%B8%EC%9D%98-%EB%A0%88%EB%B2%A8%EC%9D%B4-%EB%B3%B4%EC%9D%B8%EB%8B%A4/]
-
-- [HTTP, HTTPS][https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Network/HTTP%2C%20HTTPS.md]
+- [(Web) HTTP와 HTTPS 및 차이점](https://mangkyu.tistory.com/98)
+- [HTTP, 그리고 HTTPS의 이해](http://blog.wishket.com/http-%ea%b7%b8%eb%a6%ac%ea%b3%a0-https%ec%9d%98-%ec%9d%b4%ed%95%b4/)
+- [HTTP VS HTTPS 차이, 알면 사이트의 레벨이 보인다](http://blog.wishket.com/http-vs-https-%EC%B0%A8%EC%9D%B4-%EC%95%8C%EB%A9%B4-%EC%82%AC%EC%9D%B4%ED%8A%B8%EC%9D%98-%EB%A0%88%EB%B2%A8%EC%9D%B4-%EB%B3%B4%EC%9D%B8%EB%8B%A4/)
+- [HTTP, HTTPS](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Network/HTTP%2C%20HTTPS.md)
+- [HTTP와 HTTPS](https://velog.io/@ss-won/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-HTTP%EC%99%80-HTTPS)
 
