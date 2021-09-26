@@ -54,18 +54,17 @@
 - Kruskal Algorithm
 - Prime Number
 
-
-
-
-
 ## Operating System🖋
 
 * CPU Scheduling
 * Deadlock
 
-
-
 ## Network🖋
 
 * OSI 7
 * TCP(...ing)
+
+## Computer Architecture🖋
+
+- Pipelining
+
