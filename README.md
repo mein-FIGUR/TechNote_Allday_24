@@ -58,6 +58,7 @@
 
 * CPU Scheduling
 * Deadlock
+* OS
 
 ## Network🖋
 
