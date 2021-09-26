@@ -55,6 +55,7 @@
 - Prime Number
 - Floyd Warshall Algorithm
 - Topological Sorting
+- DFS
 
 
 
