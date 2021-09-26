@@ -55,6 +55,8 @@
 - Prime Number
 - Floyd Warshall Algorithm
 - Topological Sorting
+- KMP Algorithm
+- Boyer-Moore Algorithm
 
 
 
