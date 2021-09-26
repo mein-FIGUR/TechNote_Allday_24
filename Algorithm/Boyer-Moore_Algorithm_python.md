@@ -25,7 +25,7 @@
 
 skip table 만들기
 
-![img](Boyer-Moore_Algorithm_python.assets/문자열2 - 보이어-무어 스킵테이블.png)
+![img](Boyer-Moore_Algorithm_python.assets/skip.png)
 
 - 문자열에 불일치가 일어나면 마지막 문자를 기준으로 skip_table의 value만큼 뒤로 이동시킵니다.
 
