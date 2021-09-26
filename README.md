@@ -57,6 +57,7 @@
 - Topological Sorting
 - KMP Algorithm
 - Boyer-Moore Algorithm
+- DFS
 
 
 
