@@ -85,6 +85,10 @@
 ## Computer Architecture🖋
 
 - Pipelining
+  1. 개관
+  2. Structural Hazard & Data Hazard
+
+
 
 
 
