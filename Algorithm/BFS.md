@@ -15,7 +15,7 @@
 
 <br>
 
-![BFS1](C:\Users\SoraYUN\Documents\카카오톡 받은 파일\BFS1.gif)
+![BFS1](BFS.assets/BFS1.gif)
 
 <br>
 
@@ -73,4 +73,4 @@ bfs(graph, 1, visited)
 
 <br>
 
-![BFS2](C:\Users\SoraYUN\Documents\카카오톡 받은 파일\BFS2.gif)
+![BFS2](BFS.assets/BFS2.gif)
