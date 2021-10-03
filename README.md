@@ -58,6 +58,7 @@
 - KMP Algorithm
 - Boyer-Moore Algorithm
 - DFS
+- Sort
 
 
 
