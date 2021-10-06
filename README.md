@@ -82,6 +82,7 @@
 
 - HTTP, HTTPS
 - Proxy Server
+- Load Balancing
 
 <br>
 
