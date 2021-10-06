@@ -104,7 +104,7 @@ def merge(left, right):
 
 def mergeSort(numbers):
     if len(numbers)<=1:
-        return numbers:
+        return numbers
     mid = len(numbers)//2
     left=numbers[:mid]
     right=numbers[mid:]
