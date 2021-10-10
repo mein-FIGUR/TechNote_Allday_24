@@ -59,6 +59,7 @@
 - Boyer-Moore Algorithm
 - DFS
 - Sort
+- Bellman-Ford
 
 
 
