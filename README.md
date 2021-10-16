@@ -34,7 +34,7 @@
   - 2주 연속 업로드하지 않을 시 **경고 1회**, **누적 시 퇴출**⛔
 - **COMMIT MESSAGE RULE**: `[말머리] 날짜_제목_ID`
   - 글 수정: `[UPDATE] 210915_kruskal_mein-FIGUR`
-  - 글 생성:`[CREATE] 210915_kruskal_mein-FIGUR`
+  - 글 생성: `[CREATE] 210915_kruskal_mein-FIGUR`
 - **게시글 업로드 후, `README`에 해당 게시글 카테고리 쪽에 추가**
 - **게시글 작성 전, 다른 사람들과의 중복 게시글 방지를 위해 미리 어느 게시글을 작성하는 지 말해주기**
 
@@ -62,7 +62,8 @@
 - Bellman-Ford
 - BFS
 - Brute Force
-- Two Pointers & Sliding Windows Algorithm
+- Two Pointers & Sliding Window
+- Prim
 
 
 
