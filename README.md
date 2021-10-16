@@ -62,6 +62,7 @@
 - Bellman-Ford
 - BFS
 - Brute Force
+- Two Pointers & Sliding Windows Algorithm
 
 
 
