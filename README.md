@@ -60,6 +60,8 @@
 - DFS
 - Sort
 - Bellman-Ford
+- BFS
+- Brute Force
 
 
 
@@ -101,6 +103,7 @@
 
 ## Computer Architecture🖋
 
+- Cache
 - Pipelining
   1. 개관
   2. Structural Hazard & Data Hazard
