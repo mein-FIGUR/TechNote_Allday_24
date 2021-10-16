@@ -93,7 +93,7 @@
 ## Data Structure🖋
 
 * hash
-* linked_list
+* linked list
 
 
 
