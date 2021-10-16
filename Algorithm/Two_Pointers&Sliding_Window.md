@@ -33,21 +33,20 @@
 
 #### M(합)이 5인 연속 수열의 개수 
 
-- ![image-20211016221304742](Two Pointers & Sliding Window.assets/image-20211016221304742.png)
+- ![image-20211016204443914](Two_Pointers&Sliding_Window.assets/image-20211016204443914.png)
 - Start와 End가 첫 번째 인덱스 0을 가리킨 상태, 이때의 합은 1이다.
 - 이때 합이 M보다 작기때문에 End 를 증가시킨다.
-- ![image-20211016204732881](Two Pointers & Sliding Window.assets/image-20211016204732881.png)
+- ![image-20211016204443914](Two_Pointers&Sliding_Window.assets/image-20211016204443914.png)
 - 아직 M보다 합이 작기 때문에 과정을 반복한다.
-- ![image-20211016204827823](Two Pointers & Sliding Window.assets/image-20211016204827823.png)
+- ![image-20211016204827823](Two_Pointers&Sliding_Window.assets/image-20211016204827823.png)
 - 이때는 M보다 합이 커졌기 때문에 Start를 증가 시킨다.
-- ![image-20211016205014237](Two Pointers & Sliding Window.assets/image-20211016205014237.png)
+- ![image-20211016205014237](Two_Pointers&Sliding_Window.assets/image-20211016205014237.png)
 - 합이 5가 되었으기에 카운트를 1 증가 시키고 End를 증가 시킨다.
-- ![image-20211016205210448](Two Pointers & Sliding Window.assets/image-20211016205210448.png)
+- ![image-20211016205210448](Two_Pointers&Sliding_Window.assets/image-20211016205210448.png)
 - 과정 반복
-- ![image-20211016205249912](Two Pointers & Sliding Window.assets/image-20211016205249912.png)
-- ![image-20211016205327500](Two Pointers & Sliding Window.assets/image-20211016205327500.png)
-- ![image-20211016205350360](Two Pointers & Sliding Window.assets/image-20211016205350360.png)
-- ![image-20211016205411078](Two Pointers & Sliding Window.assets/image-20211016205411078.png)
+- ![image-20211016205249912](Two_Pointers&Sliding_Window.assets/image-20211016205249912.png)
+- ![image-20211016205327500](Two_Pointers&Sliding_Window.assets/image-20211016205327500.png)![image-20211016205350360](Two_Pointers&Sliding_Window.assets/image-20211016205350360.png)
+- ![image-20211016205411078](Two_Pointers&Sliding_Window.assets/image-20211016205411078.png)
 - 마지막 인덱스 까지 찾고 도달하면 알고리즘이 종료 된다.
 
 <br>
@@ -119,15 +118,12 @@ print(cnt)
 
 - Window를 한 칸 옮기면 중복되는 부분이 발생하고 중복되는 부분을 제외한 곳에서 연산을 하는 방법
 
-<br>
-
-- ![image-20211016212905625](Two Pointers & Sliding Window.assets/image-20211016212905625.png)
+- ![image-20211016212905625](Two_Pointers&Sliding_Window.assets/image-20211016212905625.png)
 - 위와 같이 창문을 설정하고 알고리즘을 진행한다.
-- ![image-20211016213203066](Two Pointers & Sliding Window.assets/image-20211016213203066.png)
-- ![image-20211016213415777](Two Pointers & Sliding Window.assets/image-20211016213415777.png)
-- ![image-20211016213504544](Two Pointers & Sliding Window.assets/image-20211016213504544.png)
-- ![image-20211016213548931](Two Pointers & Sliding Window.assets/image-20211016213548931.png)
-- ![image-20211016213632356](Two Pointers & Sliding Window.assets/image-20211016213632356.png)
+- ![image-20211016213203066](Two_Pointers&Sliding_Window.assets/image-20211016213203066.png)
+- ![image-20211016213415777](Two_Pointers&Sliding_Window.assets/image-20211016213415777.png)![image-20211016213504544](Two_Pointers&Sliding_Window.assets/image-20211016213504544.png)
+- ![image-20211016213548931](Two_Pointers&Sliding_Window.assets/image-20211016213548931.png)
+- ![image-20211016213632356](Two_Pointers&Sliding_Window.assets/image-20211016213632356.png)
 - 위와 같은 방법으로 창문의 마지막 위치가 숫자 배열의 마지막 인덱스라면 해당 알고리즘을 종료하고 최대값을 반환한다. 
 
 <br>
@@ -181,7 +177,7 @@ print(maxV)
 
 ## 3. Sliding Window 와 Two Pointer 알고리즘의 차이점
 
-- 구하고자 하는 __배열의 길이가 일정하지 않을 때는 투 포인터 알고리즘__을 사용할 수 있고 __일정하다면__ __슬라이딩 윈도우__ 알고리즘을 사용할 수 있다.
+- 구하고자 하는 <strong>배열의 길이가 일정하지 않을 때는 투 포인터 알고리즘</strong>을 사용할 수 있고 <strong>일정하다면 슬라이딩 윈도우 알고리즘</strong>을 사용할 수 있다.
 - 위의 예시에서는 투 포인터와 비교하기위해 sliding window 코드를 start, end를 놓고 비교했지만 고정적인 길이를 알고있기 때문에 변수를 1개만 사용하여 부분 배열의 길이를 정할 수 있다.
 
 
