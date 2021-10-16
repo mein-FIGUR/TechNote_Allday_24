@@ -86,6 +86,17 @@
 - Proxy Server
 - Load Balancing
 
+
+
+<br>
+
+## Data Structure🖋
+
+* hash
+* linked_list
+
+
+
 <br>
 
 ## Computer Architecture🖋
@@ -93,8 +104,6 @@
 - Pipelining
   1. 개관
   2. Structural Hazard & Data Hazard
-
-
 
 
 
