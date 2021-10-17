@@ -85,10 +85,9 @@
 
 * OSI 7
 * TCP(...ing)
-
-- HTTP, HTTPS
-- Proxy Server
-- Load Balancing
+* HTTP, HTTPS
+* Proxy Server
+* Load Balancing
 
 
 
@@ -98,8 +97,7 @@
 
 * hash
 * linked list
-
-
+* Trie
 
 <br>
 
