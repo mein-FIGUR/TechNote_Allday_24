@@ -76,8 +76,7 @@
 * OS
 * Interrupt
 * Process vs Thread
-
-- Process State & PCB
+* Process State & PCB
 
 <br>
 
