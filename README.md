@@ -64,6 +64,7 @@
 - Brute Force
 - Two Pointers & Sliding Window
 - Prim
+- Bitwise Operation
 
 
 
