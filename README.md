@@ -98,6 +98,7 @@
 * hash
 * linked list
 * Trie
+* B Tree & B+ Tree
 
 <br>
 
