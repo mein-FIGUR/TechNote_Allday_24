@@ -88,6 +88,7 @@
 * HTTP, HTTPS
 * Proxy Server
 * Load Balancing
+* Blocking I/O & Non-Blocking I/O
 
 
 
@@ -125,3 +126,13 @@
   - 6과목 프로그래밍 언어 활용
   
   
+
+<br>
+
+## Database🖋
+
+- deadlock
+
+
+
+<br>
