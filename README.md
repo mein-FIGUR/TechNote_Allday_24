@@ -78,7 +78,7 @@
 * Interrupt
 * Process vs Thread
 * Process State & PCB
-* 
+* IPC
 
 <br>
 
