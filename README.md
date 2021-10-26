@@ -65,6 +65,7 @@
 - Two Pointers & Sliding Window
 - Prim
 - Bitwise Operation
+- Binary_Search&Parametric_Search
 
 
 
